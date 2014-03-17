@@ -1,0 +1,8 @@
+{
+  "name": "node_helpers",
+  "description": "Collection of helper scripts",
+  "author": "Paavo Pokkinen <paveq2@gmail.com>",
+  "dependencies": {
+    "jsdom": "*"
+  }
+}
