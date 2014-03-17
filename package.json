@@ -3,6 +3,11 @@
   "description": "Collection of helper scripts",
   "author": "Paavo Pokkinen <paveq2@gmail.com>",
   "dependencies": {
-    "jsdom": "*"
-  }
+    "jsdom": "0.10.*",
+    "minimist": "0.0.*"
+  },
+  "bin": {
+    "jquery": "bin/jquery"
+  },
+  "preferGlobal": true
 }
