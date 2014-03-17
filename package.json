@@ -6,8 +6,8 @@
   "author": "Paavo Pokkinen <paveq2@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "0.10.*",
-    "minimist": "0.0.*"
+    "jsdom": "0.10.x",
+    "minimist": "0.0.x"
   },
   "bin": {
     "jquery": "bin/jquery"
